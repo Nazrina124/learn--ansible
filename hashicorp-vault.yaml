@@ -1,4 +1,4 @@
-- name:retrive secrets
+- name: retrive secrets
   hosts: localhost
   tasks:
 - debug:
